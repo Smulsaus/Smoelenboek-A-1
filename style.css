@@ -1,0 +1,44 @@
+body {
+    background-image: url("https://cdn.discordapp.com/attachments/1175825401029857350/1177168208294334464/achtergrondd.jpg?ex=65718653&is=655f1153&hm=5ddb20a0a18e6361b3708850cd4186984ab173a084ffda32a8f72bcfeec09b17&");
+  }
+          body {
+              font-family: Arial, sans-serif;
+              background-color: #ffffff;
+              text-align: center;
+          }
+          
+          .profile-card {
+              background-color: #ffffff;
+              width: 300px;
+              margin: 20px auto;
+              padding: 20px;
+              border-radius: 10px;
+              box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+          }
+          
+          .profile-picture {
+              border-radius: 50%;
+              width: 150px;
+              height: 150px;
+              margin: 0 auto 10px;
+              display: block;
+          }
+          
+          .profile-name {
+              font-size: 24px;
+              font-weight: bold;
+              margin: 10px 0;
+          }
+          
+          .profile-title {
+              font-size: 18px;
+              color: #888;
+          }
+          
+          .contact-info {
+              margin-top: 20px;
+          }
+          
+          .contact-info p {
+              margin: 5px 0;
+          }
